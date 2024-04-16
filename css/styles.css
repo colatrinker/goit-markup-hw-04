@@ -94,6 +94,12 @@ img {
     color:#404bbf;
 }
 
+.header-menu-link:hover,
+.header-menu-link:focus {
+    color: #404bbf
+}
+
+
 .current {
     position:relative;
     color:#404BBF;
@@ -313,7 +319,7 @@ img {
 
 .team-menu-text {
     text-align: center;
-    margin-bottom: 14px;
+    margin-bottom: 8px;
 }
 
 .team-title-text-container {
